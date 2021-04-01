@@ -10,4 +10,3 @@ src-git telephony https://git.openwrt.org/feed/telephony.git
 #src-git helloworld https://github.com/fw876/helloworld
 src-git kenzo https://github.com/kenzok8/openwrt-packages
 src-git small https://github.com/kenzok8/small
-src-git argon_latest https://github.com/jerrykuku/luci-theme-argon;18.06
